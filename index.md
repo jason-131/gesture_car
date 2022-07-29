@@ -3,7 +3,7 @@ I am working on creating a gestured controlled car using arudino.
 
 | **Engineer** | **School** | **Area of Interest** | **Grade** |
 |:--:|:--:|:--:|:--:|
-| Jason  | Monta Vista High School | Electrical Engineering | 10th 
+| Jason  | Monta Vista High School | Computer Engineering | 10th 
 
 ![Relevant Name](https://cdn-shop.adafruit.com/970x728/4296-11.jpg)
   
