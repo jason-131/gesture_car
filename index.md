@@ -1,5 +1,5 @@
 ﻿# Gesture Controlled Car
-I am working on creating a gestured controlled car using arudino. 
+I am working on creating a gestured controlled car using arduino. 
 
 | **Engineer** | **School** | **Area of Interest** | **Grade** |
 |:--:|:--:|:--:|:--:|
