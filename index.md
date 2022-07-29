@@ -1,9 +1,9 @@
-﻿# Project Name/Title Goes Here
-I am working on a raspberry pi machine learning model
+﻿# Gesture Controlled Car
+I am working on creating a gestured controlled car using and arudino. 
 
 | **Engineer** | **School** | **Area of Interest** | **Grade** |
 |:--:|:--:|:--:|:--:|
-| Kevin Miller | RIT | Electrical Engineering | Graduated 
+| Jason  | Monta Vista High School | Electrical Engineering | 10th 
 
 ![Relevant Name](https://cdn-shop.adafruit.com/970x728/4296-11.jpg)
   
