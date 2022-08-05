@@ -1,5 +1,5 @@
 ﻿# Gesture Controlled Car
-The gesture controlled car uses an arduino micocontroller to control the direction the car drives in. The car communnicates with the remote using the HC05 bluetooth module. The remote uses an gyroscope to determine the angle the remote is held at, this lets the user control the car by tilting the remote in the direction they want it to go. 
+The gesture controlled car uses an arduino micocontroller to control the direction the car drives in. The car communnicates with the remote using the HC05 bluetooth module. The remote uses an gyroscope to determine the angle the remote is held at, which lets the user control the car by tilting the remote in the direction they want it to go. 
 
 | **Engineer** | **School** | **Area of Interest** | **Grade** |
 |:--:|:--:|:--:|:--:|
