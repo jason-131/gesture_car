@@ -35,6 +35,5 @@ My first milestone was setting up and hooking up the Raspberry Pi and all the ne
 ## Car Unit 
 ![image](https://user-images.githubusercontent.com/30334711/183839426-8d9206e7-d2e4-4454-b1cf-cfd2f716b9d2.png)
 
-#Bill of Materials
----
+# Bill of Materials 
 
