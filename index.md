@@ -37,6 +37,7 @@ My first milestone was setting up and hooking up the Raspberry Pi and all the ne
 
 # Bill of Materials 
 ---
+
 |    | Part Name              | Quanity | Total Cost |
 | -- | ---------------------- | ------- | ---------- |
 | 1  | Arduino Uno            | 1       | $22.49     |
