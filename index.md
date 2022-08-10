@@ -29,9 +29,9 @@ My first milestone was setting up and hooking up the Raspberry Pi and all the ne
 
 # Schematics 
 ---
-### Remote Unit
+## Remote Unit
 ![image](https://user-images.githubusercontent.com/30334711/183838571-bb3990fb-723e-4f79-a0b6-ecf31166aef1.png)
 
-### Car Unit 
+## Car Unit 
 ![image](https://user-images.githubusercontent.com/30334711/183839426-8d9206e7-d2e4-4454-b1cf-cfd2f716b9d2.png)
 
