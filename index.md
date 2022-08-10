@@ -4,7 +4,7 @@ The gesture controlled car uses an arduino micocontroller to control the directi
 
 | **Engineer** | **School** | **Area of Interest** | **Grade** |
 |:--:|:--:|:--:|:--:|
-| Jason  | Monta Vista High School | Computer Engineering, Computer Science | 10th 
+| Jason  | Monta Vista High School | Computer Engineering, Computer Science | Rising Junior
 
 # Project Picture
 ---
