@@ -25,6 +25,7 @@ My first milestone was setting up and hooking up the Raspberry Pi and all the ne
 [![Milestone 1](https://res.cloudinary.com/marcomontalbano/image/upload/v1659716794/video_to_markdown/images/youtube--rDIB7zLfi5A-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://youtu.be/rDIB7zLfi5A "Milestone 1"){:target="_blank" rel="noopener"}
 
 # Schematics 
+---
 ![image](https://user-images.githubusercontent.com/30334711/183838571-bb3990fb-723e-4f79-a0b6-ecf31166aef1.png)
 
 ![image](https://user-images.githubusercontent.com/30334711/183839426-8d9206e7-d2e4-4454-b1cf-cfd2f716b9d2.png)
