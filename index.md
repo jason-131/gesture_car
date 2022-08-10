@@ -37,3 +37,16 @@ My first milestone was setting up and hooking up the Raspberry Pi and all the ne
 
 # Bill of Materials 
 ---
+|    | Part Name              | Quanity | Total Cost |
+| -- | ---------------------- | ------- | ---------- |
+| 1  | Arduino Uno            | 1       | $22.49     |
+| 2  | Arduino Micro          | 1       | $24.99     |
+| 3  | HC-05 Bluetooth Module | 2       | $20.00     |
+| 4  | L298N Motor Driver     | 1       | $7.00      |
+| 5  | MPU-6050               | 1       | $5.79      |
+| 6  | 9v Battery             | 2       | $7.00      |
+| 7  | 9v to DC Jack          | 2       | $5.00      |
+| 8  | 4 AA Battery Holder    | 1       | $5.00      |
+| 9  | 4 Wheel Car Chassis    | 1       | $17.00     |
+| 10 | Jumper Wires           | 30      | $3.50      |
+| 11 | Perf Board             | 1       | $1.65      |
