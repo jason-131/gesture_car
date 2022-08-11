@@ -37,6 +37,11 @@ My first milestone was setting up the Arduino Uno, the motor driver, and the mot
 # Code
 ---
 
+pre {
+  overflow-y: auto;
+  max-height: 300px;
+}
+
 ``` java
 int lm1=2; //left motor output 1
 int lm2=4; //left motor output 2
