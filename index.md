@@ -37,9 +37,9 @@ My first milestone was setting up the Arduino Uno, the motor driver, and the mot
 # Code
 ---
 
-<details>
+
  
- <summary> Car Unit </summary>
+
  
 ``` java
  
@@ -126,7 +126,7 @@ void loop()
   }
  
 ```
-</details>
+
 
  
 # Bill of Materials
