@@ -37,12 +37,7 @@ My first milestone was setting up the Arduino Uno, the motor driver, and the mot
 # Code
 ---
 
-
- 
-
- 
 ``` java
- 
 int lm1=2; //left motor output 1
 int lm2=4; //left motor output 2
 int rm1=7;  //right motor output 1
