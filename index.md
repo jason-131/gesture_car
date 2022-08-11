@@ -37,7 +37,7 @@ My first milestone was setting up the Arduino Uno, the motor driver, and the mot
 # Code
 
 <details>
- <summary> # Remote Unit </summary>
+ <summary>Remote Unit </summary>
  
  ```java
  
