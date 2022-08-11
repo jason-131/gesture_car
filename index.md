@@ -352,7 +352,9 @@ void loop()
 ```
 </details>
 
-# Bill of Materials 
+ 
+# Bill of Materials
+ 
 ---
 
 |    | Part Name              | Quanity | Total Cost |
