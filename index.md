@@ -36,10 +36,8 @@ My first milestone was setting up the Arduino Uno, the motor driver, and the mot
 
 # Code
 
-## Car Unit
-
-<Code>
- 
+<details>
+ <summary> Car Unit </summary>
 ``` java
 int lm1=2; //left motor output 1
 int lm2=4; //left motor output 2
@@ -123,7 +121,7 @@ void loop()
    digitalWrite(rm2,LOW);
   }  
 ```
-<Code>
+</details>
  
 # Bill of Materials 
 ---
