@@ -37,6 +37,7 @@ My first milestone was setting up the Arduino Uno, the motor driver, and the mot
 # Code
 ---
 <details>
+ 
  <summary>Remote Unit </summary>
  
  ```java
@@ -256,13 +257,16 @@ void loop() {
     digitalWrite(LED_PIN, blinkState);
   }
 }
+                     
  ```
 </details>
  
 <details>
+ 
  <summary> Car Unit </summary>
  
 ``` java
+ 
 int lm1=2; //left motor output 1
 int lm2=4; //left motor output 2
 int rm1=7;  //right motor output 1
@@ -343,7 +347,8 @@ void loop()
    digitalWrite(lm2,LOW);
    digitalWrite(rm1,LOW);
    digitalWrite(rm2,LOW);
-  }  
+  }
+ 
 ```
 </details>
 
