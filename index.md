@@ -18,7 +18,7 @@ My final milestone is the increased reliability and accuracy of my robot. I amel
 
 # Second Milestone
 ---
-My final milestone is the increased reliability and accuracy of my robot. I ameliorated the sagging and fixed the reliability of the finger. As discussed in my second milestone, the arm sags because of weight. I put in a block of wood at the base to hold up the upper arm; this has reverberating positive effects throughout the arm. I also realized that the forearm was getting disconnected from the elbow servo’s horn because of the weight stress on the joint. Now, I make sure to constantly tighten the screws at that joint.
+For my second milestone I got the remote to actualy control the car. This was a big milestone as I had to do many things at once like getting the bluetooth working, the remote working, and writing all the code. For the remote I wired everything using the breadboard as it is much easier to use, and if I made any mistakes I could unplug the wires. Eventually I wanted to solder the remote onto a perf board but I used the breadboard as a prototype. For the remote I got the gyroscope to work which lets the user control the car by tilting it in the direction you want it to go. I also had to get the bluetooth working so the remote and the car could communicate with each other wirelessly. 
 
 [![Milestone 2](https://res.cloudinary.com/marcomontalbano/image/upload/v1660204386/video_to_markdown/images/youtube--4Ifjy3sYAq4-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://www.youtube.com/watch?v=4Ifjy3sYAq4 "Milestone 2")
 # First Milestone
