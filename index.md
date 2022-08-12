@@ -18,7 +18,7 @@ The gesture controlled car uses an arduino micocontroller to control the directi
 ---
 My final milestone was to solder all of the components of the remote onto the perfboard. I had already gotten the remote to work with the car, now I just had to solder the components on to the perfboard so it's more compact. Soldering was a bit challenging at first as this was the first time I did it. Eventually I got the hang of it and I ended up finishing relatively quickly. 
 
-[![Milestone 3](https://res.cloudinary.com/marcomontalbano/image/upload/v1660322419/video_to_markdown/images/youtube--jLW0eKtfv50-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://www.youtube.com/watch?v=jLW0eKtfv50 "Milestone 3")
+[![Milestone 3](https://res.cloudinary.com/marcomontalbano/image/upload/v1660322472/video_to_markdown/images/youtube--jLW0eKtfv50-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://www.youtube.com/watch?v=jLW0eKtfv50 "Milestone 3")
 
 # Second Milestone
 ---
