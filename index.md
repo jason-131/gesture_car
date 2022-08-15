@@ -14,7 +14,7 @@ The gesture controlled car uses an arduino micocontroller to control the directi
 
 # Demo Video 
 ---
-
+2022-08-11 14.42 (1) (1).mov
 https://user-images.githubusercontent.com/30334711/184733607-7bd399cb-732a-4633-a790-cb0581e7a79a.mp4
 
 
