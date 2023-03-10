@@ -12,7 +12,7 @@ The gesture controlled car uses an arduino micocontroller to control the directi
 ---
 ![image](https://user-images.githubusercontent.com/30334711/183264182-da81ecbe-636f-4730-b22f-13f3f1f667a8.png)
 <img src = "https://user-images.githubusercontent.com/30334711/224211227-4928e8dc-44e7-4de4-9f2d-38ca1dcbeb5e.png" width =600>
-<img src ="https://user-images.githubusercontent.com/30334711/224211259-660793a6-3a88-4c27-bbad-477202707e37.png" width = "500">
+<img src ="https://user-images.githubusercontent.com/30334711/224211259-660793a6-3a88-4c27-bbad-477202707e37.png" width = "600">
 
 # Demo Video 
 ---
