@@ -11,10 +11,11 @@ The gesture controlled car uses an arduino micocontroller to control the directi
 # Project Picture
 ---
 ![image](https://user-images.githubusercontent.com/30334711/183264182-da81ecbe-636f-4730-b22f-13f3f1f667a8.png)
+![image0](https://user-images.githubusercontent.com/30334711/224211227-4928e8dc-44e7-4de4-9f2d-38ca1dcbeb5e.png)
+![image0](https://user-images.githubusercontent.com/30334711/224211259-660793a6-3a88-4c27-bbad-477202707e37.png)
 
 # Demo Video 
 ---
-[![d](https://res.cloudinary.com/marcomontalbano/image/upload/v1660604231/video_to_markdown/images/youtube--YmHG_OfjSZs-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://www.youtube.com/watch?v=YmHG_OfjSZs "d")
 <iframe width="760" height="427" src="https://www.youtube.com/embed/YmHG_OfjSZs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 # Final Milestone
