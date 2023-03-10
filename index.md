@@ -32,8 +32,7 @@ For my second milestone I got the remote to actualy control the car. This was a 
 # First Milestone
   ---
 My first milestone was setting up the Arduino Uno, the motor driver, and the motors. To do this I screwed all the motors on to the chassis, then I soldered wires onto the motors so I could connect them to the motor driver. The motor driver is the component that directly controls the motors by sending electrity to it. On the other hand, the arduino is the component that sends commands to the motor driver so it knows which direction to spin the motors. Initially I try to power the motor driver and the arduino with 9v batteries but I end up using a battery pack to power the motor driver because the 9v battery isn't powerful enough. To turn the wheels I wrote some basic code that turns the wheels forwards then backwards. 
-[![Milestone 1](https://res.cloudinary.com/marcomontalbano/image/upload/v1659716794/video_to_markdown/images/youtube--rDIB7zLfi5A-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://youtu.be/rDIB7zLfi5A "Milestone 1"){:target="_blank" rel="noopener"}
-
+<iframe width="800"  src="https://www.youtube.com/embed/rDIB7zLfi5A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 # Schematics 
 ---
 ## Remote Unit
