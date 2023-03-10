@@ -15,24 +15,24 @@ The gesture controlled car uses an arduino micocontroller to control the directi
 
 # Demo Video 
 ---
-<iframe width="830"  src="https://www.youtube.com/embed/YmHG_OfjSZs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="830" height="466" src="https://www.youtube.com/embed/YmHG_OfjSZs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 # Final Milestone
 ---
 My final milestone was to solder all of the components of the remote onto the perfboard. I had already gotten the remote to work with the car, now I just had to solder the components on to the perfboard so it's more compact. Soldering was a bit challenging at first as this was the first time I did it. Eventually I got the hang of it and I ended up finishing relatively quickly. 
 
-<iframe width="830"  src="https://www.youtube.com/embed/jLW0eKtfv50" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="830" height="466" src="https://www.youtube.com/embed/jLW0eKtfv50" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 # Second Milestone
 ---
 For my second milestone I got the remote to actualy control the car. This was a big milestone as I had to do many things at once like getting the bluetooth working, the remote working, and writing all the code. For the remote I wired everything using the breadboard as it is much easier to use, and if I made any mistakes I could unplug the wires. Eventually I wanted to solder the remote onto a perf board but I used the breadboard as a prototype. For the remote I got the gyroscope to work which lets the user control the car by tilting it in the direction you want it to go. I also had to get the bluetooth working so the remote and the car could communicate with each other wirelessly. 
 
-<iframe width="830" src="https://www.youtube.com/embed/4Ifjy3sYAq4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="830" height="466" src="https://www.youtube.com/embed/4Ifjy3sYAq4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 # First Milestone
   ---
 My first milestone was setting up the Arduino Uno, the motor driver, and the motors. To do this I screwed all the motors on to the chassis, then I soldered wires onto the motors so I could connect them to the motor driver. The motor driver is the component that directly controls the motors by sending electrity to it. On the other hand, the arduino is the component that sends commands to the motor driver so it knows which direction to spin the motors. Initially I try to power the motor driver and the arduino with 9v batteries but I end up using a battery pack to power the motor driver because the 9v battery isn't powerful enough. To turn the wheels I wrote some basic code that turns the wheels forwards then backwards. 
-<iframe width="800"  src="https://www.youtube.com/embed/rDIB7zLfi5A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="800" height="466" src="https://www.youtube.com/embed/rDIB7zLfi5A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 # Schematics 
 ---
 ## Remote Unit
